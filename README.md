@@ -1,5 +1,4 @@
-# Game-System
-Source code with several system on OGRE 3D
+#Source code with several system on OGRE 3D
 
 ## Game Structure
 
